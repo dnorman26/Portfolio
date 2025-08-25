@@ -27,3 +27,14 @@ Maintainability, Readability, and Adaptability
 
 Code is broken into clear, single-purpose functions with comments for clarity. This makes it easy to maintain and extend.
 
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+  Interpreting user needs involves actively listening, asking clarifying questions, and translating requirements into actionable tasks. 
+  Creating user stories helps by breaking down these needs into specific, testable features that guide development.
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+  I approach developing programs iteratively, starting with small, testable components and building functionality step by step. 
+  I hope to incorporate Agile processes like sprints, regular stand-ups, and continuous feedback to ensure adaptability and consistent progress.
+
+**What does it mean to be a good team member in software development?**
+  Being a good team member means communicating clearly, supporting others, and contributing actively to group goals. 
+  It also involves being open to feedback and collaborating effectively to solve problems.
