@@ -26,3 +26,4 @@ Strengthened skills in modular programming, reference parameters, formatted outp
 Maintainability, Readability, and Adaptability
 
 Code is broken into clear, single-purpose functions with comments for clarity. This makes it easy to maintain and extend.
+
