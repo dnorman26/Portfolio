@@ -75,3 +75,20 @@ I used the client's requirements to decide what features the system needed. Thin
 
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
 I start by figuring out what the user wants before designing the system. In the future, I will keep using diagrams and feedback to design systems that are clear and easy to understand.
+
+**CS 300 Journal**
+
+**What was the problem you were solving in the projects for this course?**
+The main problem I was solving in this course was figuring out how to store, sort, and display course data effieciently. This included analyzing run-time and memory usage for different data structures and writing code to sort Computer Science courses in alphanumeric order.
+
+**How did you approach the problem? Consider why data structures are important to understand.**
+Understanding data structures is important due to how they affect how fast a program runs and how much memory is uses.
+
+**How did you overcome any roadblocks you encountered while going through the activities or project?**
+I ran into roadblocks with sorting logic and understanding why some data structures performed better than others. I overcame these issues by breaking the problem into smaller steps, testing often, and reviewing examples until the logic made sense.
+
+**How has your work on this project expanded your approach to designing software and developing programs?**
+This project has helped on how I choose data structures in development. I now focus more on effieciency and planning instead of just making the code work.
+
+**How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+I pay more attention to clear variable names, comments, and writing code that can be easily updated or reused later.
