@@ -58,3 +58,20 @@ User needs were implemented through scalable structures, unique identifiers, and
 
 **Design Approach:**
 I captured requirements, defined constraints, modeled the domain, and evaluated platforms, tools, and security considerations. For future projects, I would add prototypes, risk assessments, and early automated testing to validate designs. 
+
+**CS 255 DriverPass Project Reflection**
+
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+The client was DriverPass who wanted a website to help students study for driving tests. The system included exams, scheduling features, and different user roles like students, instructors, and admins.
+
+**What did you do particularly well?**
+I did a good job writing clear business requirements based on what the client wanted. I also created a system design that matched those requirements and showed how the system would work.
+
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+If I could change one thing, I would add more detail to the system design. This would make it easier for developers to build the system later.
+
+**How did you interpret the user's needs and implement them into your system design? Why is it so important to consider the user's needs when designing?**
+I used the client's requirements to decide what features the system needed. Thinking about user needs is important since software should be easy to use and be able to solve the user's problem.
+
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
+I start by figuring out what the user wants before designing the system. In the future, I will keep using diagrams and feedback to design systems that are clear and easy to understand.
