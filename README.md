@@ -117,3 +117,12 @@ I used Spring Boot configuration, Java keytool, SSL certificates, SHA-256 hashin
 I would show employers my completed vulnerability assessment report and secure software refactoring work to demonstrate my ability to identify risks, apply security controls, and implement secure coding practices in a real-world scenario.
 
 **CS 320**
+
+**How can I ensure that my code, program, or software is functional and secure?**
+I ensure functionality and security by writing comprehensive unit tests (such as thos created with JUint) to validate requirements, edge cases, and input constraints, while also enforcing proper validation, encapsulation, and defensive programming practices to prevent invalid data and unintended behavior.
+
+**How do I interpret user needs and incorporate them into a program?**
+I interpret user needs by carefully analyzing requirements and acceptance criteria, then translating them into specific, testable features and validation rules within the code to ensure the implementation directly aligns with what the user expects.
+
+**How do I approach designing software?**
+I approach software design by breaking requirements into modular components, defining clear responsibilities for each class or service, and applying object-oriented principles to create code that is maintainable, scalable, and easy to test.
