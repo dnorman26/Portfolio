@@ -92,3 +92,28 @@ This project has helped on how I choose data structures in development. I now fo
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 I pay more attention to clear variable names, comments, and writing code that can be easily updated or reused later.
+
+**CS 305**
+
+**Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issues did the company want you to address?**
+Artemis Financial is a financial services company that needed its web application reviewed for security weaknesses. The company wanted to identify vulnerabilities and improve secure communication to protect sensitive client financial data.
+
+**What did you do well when you found your client's software security vulnerabilities? Why is important to code securely? What value does software security add to a company's overall well-being?**
+I successfully identified security gaps and implemented HTTPS with SSL/TLS encryption to protect data in transit. Secure coding is important since it prevents data breaches, protects customer information, and strengthens a company's reputation and trustworthiness.
+
+**Which part of the vulnerability assessment was challenging or helpful to you?**
+The most challenging part was analyzing the different types of vulnerabilities and understanding how they connected to the overall system architecture. However, this process was helpful since it improved my understanding of how security must be built into every layer of an application.
+
+**How did you increase layers of security? In the future, what would you use to asses vulnerabilities and decide which mitigation techniques to use?**
+I increased security by adding SSL encryption, redirecting HTTP to HTTPS, improving input validation, and using SHA-256 hashing. In the future, I would use automated tools such as static code analyzers and dependency checkers to identify vulnerabilities and determine the best mitigation strategies.
+
+**How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?**
+I tested the application after refactoring to confirm HTTPS was working and verified that all endpoints functioned correctly. I also ran a dependency-check scan to identify any vulnerable libraries and ensure that no new security issues were introduced during the update.
+
+**What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?**
+I used Spring Boot configuration, Java keytool, SSL certificates, SHA-256 hashing, and secure coding best practices. These tools and practices wil be helpful in future software development and security-focused projects.
+
+**Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?**
+I would show employers my completed vulnerability assessment report and secure software refactoring work to demonstrate my ability to identify risks, apply security controls, and implement secure coding practices in a real-world scenario.
+
+**CS 320**
