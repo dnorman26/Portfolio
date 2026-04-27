@@ -116,48 +116,37 @@ I used Spring Boot configuration, Java keytool, SSL certificates, SHA-256 hashin
 **Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?**
 I would show employers my completed vulnerability assessment report and secure software refactoring work to demonstrate my ability to identify risks, apply security controls, and implement secure coding practices in a real-world scenario.
 
-**CS 320**
-
-**How can I ensure that my code, program, or software is functional and secure?**
-I ensure functionality and security by writing comprehensive unit tests (such as thos created with JUint) to validate requirements, edge cases, and input constraints, while also enforcing proper validation, encapsulation, and defensive programming practices to prevent invalid data and unintended behavior.
-
-**How do I interpret user needs and incorporate them into a program?**
-I interpret user needs by carefully analyzing requirements and acceptance criteria, then translating them into specific, testable features and validation rules within the code to ensure the implementation directly aligns with what the user expects.
-
-**How do I approach designing software?**
-I approach software design by breaking requirements into modular components, defining clear responsibilities for each class or service, and applying object-oriented principles to create code that is maintainable, scalable, and easy to test.
-
 # CS 330 Module Eight Journal Reflection
 
-## How do I approach designing software?
-I approach designing software by first understanding the requirements and then planning the structure before writing code. I break the project into smaller parts so it is easier to build, test, and debug.
+**How do I approach designing software?**  
+I approach designing software by first understanding the requirements and then planning the structure before writing code. I break the project into smaller components to make it easier to build, test, and debug.
 
-## What new design skills has your work on the project helped you to craft?
-This project helped me improve my ability to design and manage a 3D scene using OpenGL. I gained experience working with textures, lighting, and object transformations to build a complete environment.
+**What new design skills has your work on the project helped you to craft?**  
+This project helped me improve my ability to design and manage a 3D scene using OpenGL. I gained experience working with textures, lighting, and transformations to build a complete visual environment.
 
-## What design process did you follow for your project work?
-I followed an iterative design process where I built the scene step by step through each milestone. I started with basic shapes and gradually added textures, lighting, and final adjustments.
+**What design process did you follow for your project work?**  
+I followed an iterative design process where I built the scene step by step across each milestone. I started with basic shapes and progressively added textures, lighting, and final refinements.
 
-## How could tactics from your design approach be applied in future work?
-My design approach can be applied to future projects by breaking complex systems into smaller components and building incrementally. This makes development more organized and easier to debug.
+**How could tactics from your design approach be applied in future work?**  
+My design approach can be applied to future projects by breaking complex systems into smaller, manageable parts. This makes development more organized and easier to debug and maintain.
 
-## How do I approach developing programs?
-I approach developing programs by writing small sections of code, testing often, and fixing issues as they appear. I also rely on debugging tools and step-by-step verification.
+**How do I approach developing programs?**  
+I approach developing programs by writing small sections of code, testing frequently, and correcting issues as they appear. I also rely on debugging tools to verify program behavior.
 
-## What new development strategies did you use while working on your 3D scene?
-I used shader-based lighting, texture mapping, and transformation matrices to build the 3D scene. I also learned how to properly manage lighting and object placement in OpenGL.
+**What new development strategies did you use while working on your 3D scene?**  
+I used shader-based lighting, texture mapping, and transformation matrices to construct the 3D scene. I also learned how to properly manage lighting effects and object placement in OpenGL.
 
-## How did iteration factor into your development?
-Iteration was essential because each milestone built on the previous one. I continuously refined the scene by adjusting lighting, textures, and object positioning.
+**How did iteration factor into your development?**  
+Iteration was essential because each milestone built upon the previous one. I continuously refined the scene by adjusting lighting, textures, and object positioning.
 
-## How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-My approach became more structured and intentional throughout the milestones. I started planning changes before coding and became more efficient at debugging graphical issues.
+**How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?**  
+My approach became more structured and intentional throughout the milestones. I improved my planning before coding and became more efficient at debugging graphical issues.
 
-## How can computer science help me in reaching my goals?
-Computer science helps me reach my goals by giving me strong problem-solving and programming skills. These skills are valuable for software development and technical career paths.
+**How can computer science help me in reaching my goals?**  
+Computer science helps me reach my goals by strengthening my problem-solving and programming skills. These skills are valuable for software development and technical career paths.
 
-## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-Computational graphics taught me how 3D rendering, lighting models, and transformations work. This knowledge will help in future coursework involving simulations, visualization, or game development.
+**How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?**  
+Computational graphics taught me how 3D rendering, lighting models, and transformations work. This knowledge will support future coursework involving simulations, visualization, and graphics programming.
 
-## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-These skills are useful in professional fields like game development, simulation systems, and software engineering. Understanding 3D graphics pipelines gives me practical experience that can be applied in real-world applications.
+**How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?**  
+These skills apply to professional fields such as game development, simulation systems, and software engineering. Understanding 3D graphics pipelines provides practical experience for real-world applications.
