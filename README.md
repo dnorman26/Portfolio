@@ -116,7 +116,7 @@ I used Spring Boot configuration, Java keytool, SSL certificates, SHA-256 hashin
 **Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?**
 I would show employers my completed vulnerability assessment report and secure software refactoring work to demonstrate my ability to identify risks, apply security controls, and implement secure coding practices in a real-world scenario.
 
-# CS 330 Module Eight Journal Reflection
+**CS 330 Module Eight Journal Reflection**
 
 **How do I approach designing software?**  
 I approach designing software by first understanding the requirements and then planning the structure before writing code. I break the project into smaller components to make it easier to build, test, and debug.
