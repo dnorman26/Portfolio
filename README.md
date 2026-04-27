@@ -126,3 +126,38 @@ I interpret user needs by carefully analyzing requirements and acceptance criter
 
 **How do I approach designing software?**
 I approach software design by breaking requirements into modular components, defining clear responsibilities for each class or service, and applying object-oriented principles to create code that is maintainable, scalable, and easy to test.
+
+# CS 330 Module Eight Journal Reflection
+
+## How do I approach designing software?
+I approach designing software by first understanding the requirements and then planning the structure before writing code. I break the project into smaller parts so it is easier to build, test, and debug.
+
+## What new design skills has your work on the project helped you to craft?
+This project helped me improve my ability to design and manage a 3D scene using OpenGL. I gained experience working with textures, lighting, and object transformations to build a complete environment.
+
+## What design process did you follow for your project work?
+I followed an iterative design process where I built the scene step by step through each milestone. I started with basic shapes and gradually added textures, lighting, and final adjustments.
+
+## How could tactics from your design approach be applied in future work?
+My design approach can be applied to future projects by breaking complex systems into smaller components and building incrementally. This makes development more organized and easier to debug.
+
+## How do I approach developing programs?
+I approach developing programs by writing small sections of code, testing often, and fixing issues as they appear. I also rely on debugging tools and step-by-step verification.
+
+## What new development strategies did you use while working on your 3D scene?
+I used shader-based lighting, texture mapping, and transformation matrices to build the 3D scene. I also learned how to properly manage lighting and object placement in OpenGL.
+
+## How did iteration factor into your development?
+Iteration was essential because each milestone built on the previous one. I continuously refined the scene by adjusting lighting, textures, and object positioning.
+
+## How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+My approach became more structured and intentional throughout the milestones. I started planning changes before coding and became more efficient at debugging graphical issues.
+
+## How can computer science help me in reaching my goals?
+Computer science helps me reach my goals by giving me strong problem-solving and programming skills. These skills are valuable for software development and technical career paths.
+
+## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+Computational graphics taught me how 3D rendering, lighting models, and transformations work. This knowledge will help in future coursework involving simulations, visualization, or game development.
+
+## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+These skills are useful in professional fields like game development, simulation systems, and software engineering. Understanding 3D graphics pipelines gives me practical experience that can be applied in real-world applications.
