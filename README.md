@@ -150,3 +150,23 @@ Computational graphics taught me how 3D rendering, lighting models, and transfor
 
 **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?**  
 These skills apply to professional fields such as game development, simulation systems, and software engineering. Understanding 3D graphics pipelines provides practical experience for real-world applications.
+
+**CS 360 Module Eight Journal: Weight Tracker App**
+
+**Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**  
+The Weight Tracker App was designed to allow users to log their daily weight, set a goal weight, and track progress over time. It addresses the need for a simple and organized tool to help users monitor health and fitness progress.
+
+**What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?**  
+The app includes a login screen, a dashboard for weight tracking, and an SMS permission screen. The UI was designed to be simple and easy to navigate so users can quickly input data, view progress, and access features without confusion.
+
+**How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?**  
+I developed the app step-by-step by first designing the UI, then building the SQLite database, and finally adding functionality such as navigation and SMS permissions. This structured approach can be used in future projects to reduce errors and improve organization.
+
+**How did you test to ensure your code was functional? Why is this process important, and what did it reveal?**  
+I tested the app using the Android Emulator and verified each feature including login, adding entries, deleting data, and navigation. Testing is important because it helps identify issues early and revealed problems such as missing IDs and database mismatches that were fixed.
+
+**Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?**  
+I had to adjust my RecyclerView implementation and database structure to properly support adding and deleting weight entries. I also improved navigation by adding a menu system for better screen access.
+
+**In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**  
+I was most successful in implementing the SQLite database with full CRUD functionality (create, read, update, delete). This demonstrated my ability to connect UI elements with persistent data storage and manage user interactions effectively.
