@@ -181,3 +181,17 @@ I approach problems by breaking requirements into smaller components, starting w
 
 **What do computer scientists do, and why does it matter?**
 Computer scientists design and build systems that turn data into useful tools for decision-making and real-world problem solving. In this project, my work helped simulate how organizations like Grazioso Salvare can quickly filter and identify suitable search-and-rescue dogs, improving efficiency and supporting life-saving operations.
+
+**CS 370 Module Eight Journal**
+
+**Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?**  
+In this project, I was given a base reinforcement learning environment for a pirate maze problem along with starter code for the neural network model and training loop structure. I created and modified the Q-learning logic, adjusted hyperparameters, and improved the training process to help the agent learn an optimal path more effectively.
+
+**What do computer scientists do and why does it matter?**  
+Computer scientists design algorithms and systems to solve real-world problems efficiently using data and computation. This matters as it enables automation, improves decision-making, and supports technologies used in everyday life like navigation, AI, and data-driven services.
+
+**How do I approach a problem as a computer scientist?**  
+I approach problems by breaking them into smaller components, identifying inputs and outputs, and selecting appropriate algorithms or models. For this project, I iteratively tested the agent, adjusted parameters, and evaluated performance to improve learning outcomes.
+
+**What are my ethical responsibilities to the end user and the organization?**  
+My ethical responsibilities include ensuring the system behaves reliably, avoiding biased or misleading outcomes, and using data responsibly. I must also make sure the model is transparent in its limitations and does not create harm when deployed or used in real-world scenarios.
