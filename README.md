@@ -170,3 +170,14 @@ I had to adjust my RecyclerView implementation and database structure to properl
 
 **In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**  
 I was most successful in implementing the SQLite database with full CRUD functionality (create, read, update, delete). This demonstrated my ability to connect UI elements with persistent data storage and manage user interactions effectively.
+
+**CS 340 Module Eight Journal**
+
+**How do you write programs that are maintainable, readable, and adaptable?**
+I write maintainable and readable programs by using clear naming conventions, consistent structure, and modular design. In Project One, the CRUD Python module made the code more adaptable as it separated database logic from the dashboard, allowing changes in one area without breaking the other and making reuse in future projects much easier.
+
+**How do you approach a problem as a computer scientist?**
+I approach problems by breaking requirements into smaller components, starting with the data structure and database design before building the interface. For the Grazioso Salvare dashboard project, this helped me move from understanding client needs to building functional CRUD operations and visual widgets, and in the future I would continue using iterative development and testing to refine database-driven solutions.
+
+**What do computer scientists do, and why does it matter?**
+Computer scientists design and build systems that turn data into useful tools for decision-making and real-world problem solving. In this project, my work helped simulate how organizations like Grazioso Salvare can quickly filter and identify suitable search-and-rescue dogs, improving efficiency and supporting life-saving operations.
