@@ -1,0 +1,60 @@
+package tasks;
+
+import java.util.Date;
+
+
+public class Appointment {
+	
+	private final String appointmentId;
+	private Date appointmentDate;
+	private String description;
+	
+	///Constructs an Appointment
+	public Appointment(String appointmentId, Date appointmentDate, String description) {
+		
+		if (appointmentId == null || appointmentId.length() > 10) {
+			throw new IllegalArgumentException("Invalid appointment ID");
+		}
+		if (appointmentDate == null || appointmentDate.before(new Date())) {
+			throw new IllegalArgumentException("Invalid appointment date");
+		}
+		if (description == null || description.length() > 50) {
+			throw new IllegalArgumentException("Invalid description");
+		}
+		
+		this.appointmentId = appointmentId;
+		this.appointmentDate = appointmentDate;
+		this.description = description;
+	}
+	
+	///return appointment ID
+	public String getAppointmentId() {
+		return appointmentId;
+	}
+	
+	///return appointment date
+	public Date getAppointmentDate() {
+		return appointmentDate;
+	}
+	
+	///updates appointmentDate 
+	public void setAppointmentDate(Date appointmentDate) {
+		if (appointmentDate == null || appointmentDate.before(new Date())) {
+			throw new IllegalArgumentException("Invalid appointment date");
+		}
+		this.appointmentDate = appointmentDate;
+	}
+	
+	///return description
+	public String getDescription() {
+		return description;
+	}
+	
+	///update description
+	public void setDescription(String description) {
+		if (description == null || description.length() > 50) {
+			throw new IllegalArgumentException("Invalid description");
+		}
+		this.description = description;
+	}
+}
